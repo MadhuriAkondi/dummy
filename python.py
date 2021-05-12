@@ -3,7 +3,7 @@
 
 
 def denomination(n):
-    l=[500,5,50]
+    l=[500,5,50,20]
     l.sort(reverse=True)
     f=[]
     for i in l:
