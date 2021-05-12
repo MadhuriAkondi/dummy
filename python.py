@@ -14,9 +14,8 @@ def denomination(n):
     else:
         for i in range(0,len(f)):
             print(l[i] , ":" , f[i])
-            print("cash")
+            print("git cash")
         
 n = int(input())
 denomination(n);
-print("Hi")
 print("Hello")
