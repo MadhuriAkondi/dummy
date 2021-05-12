@@ -18,3 +18,4 @@ def denomination(n):
 n = int(input())
 denomination(n);
 print("Hi")
+print("Hello")
